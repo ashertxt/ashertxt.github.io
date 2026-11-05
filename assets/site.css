@@ -708,7 +708,7 @@ button:focus-visible {
 }
 
 @media (max-width:560px) {
-  #asher-home #ah-work {
+  #asher-home #portfolio {
     padding-top: 48px;
     padding-bottom: 56px;
   }
@@ -1945,12 +1945,12 @@ button:focus-visible {
   padding-bottom: var(--section-space);
 }
 
-#asher-home #ah-work {
+#asher-home #portfolio {
   padding-top: var(--section-space);
   padding-bottom: var(--section-space);
 }
 
-#asher-home #ah-experiments {
+#asher-home #experiments {
   padding-top: var(--section-space);
   padding-bottom: var(--section-space);
 }
@@ -2001,7 +2001,7 @@ button:focus-visible {
 }
 
 @media (min-width:701px) {
-  #asher-home #ah-experiments {
+  #asher-home #experiments {
     padding-top: 64px;
   }
 }
